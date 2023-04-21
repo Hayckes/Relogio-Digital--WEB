@@ -21,5 +21,5 @@ O código JavaScript usa o método setInterval() para atualizar o relógio a cad
 Este relógio digital foi criado por Ravel. Você pode entrar em contato comigo por email ravellevi08@gmail.com ou Instagram @ravel_levi se tiver alguma dúvida ou comentário.
 
 ##
-
-![Imagem do Relogio][https://drive.google.com/file/d/1GwmexKvvCOY-y6QEylw9-Y_A_Wevizki/view?usp=share_link]
+ 
+ ![img-relogio](https://cdn.discordapp.com/attachments/758870517230075925/1098771122184519750/foto-relogio.png)
